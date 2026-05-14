@@ -2,9 +2,9 @@
 openai
 requests
 beautifulsoup4
-langchain
-langchain-openai
-langchain-community
+langchain==0.1.20
+langchain-openai==0.1.6
+langchain-community==0.0.38
 bs4
 faiss-cpu
 python-dotenv
